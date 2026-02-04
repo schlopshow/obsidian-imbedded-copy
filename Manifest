@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-embedded-copy",
+	"name": "obsidian-embedded-copy",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Copy markdown to clipboard with all images embedded as base64. Press Ctrl+Shift+C (Cmd+Shift+C on Mac) to copy.",
+	"author": "Schlop",
+	"authorUrl": "https://github.com/schlopshow/",
+	"isDesktopOnly": true
+}
